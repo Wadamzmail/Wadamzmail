@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadamzmail&label=Profile%20views&color=0e75b6&style=flat" alt="wadamzmail" /> </p>
 
+[![committers.top badge](https://user-badge.committers.top/sudan/Wadamzmail.svg)](https://user-badge.committers.top/sudan/Wadamzmail)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadamzmail" alt="wadamzmail" /></a> </p>
 
 - 🔭 I’m currently working on [CodeAssist Pro](https://github.com/Wadamzmail/CodeAssist-Unofficial)

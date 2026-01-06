@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadamzmail" alt="wadamzmail" /></a> </p>
 
-- 🔭 I’m currently working on [CodeAssist Pro](https://github.com/Wadamzmail/CodeAssist-Unofficial)
+- 🔭 I’m currently working on [CodeAssist Pro](https://github.com/Wadamzmail/CodeAssist-Pro)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, NodeJS**
 

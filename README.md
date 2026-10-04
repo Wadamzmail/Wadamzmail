@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=wadamzmail&show_icons=true&locale=en" alt="wadamzmail" /></p>
 
-<p><img align="center" src="https://github-stats-streak.herukoapp.com/?user=wadamzmail&" alt="wadamzmail" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wadamzmail&" alt="wadamzmail" /></p>

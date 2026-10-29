@@ -5,6 +5,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/sudan/Wadamzmail.svg)](https://user-badge.committers.top/sudan/Wadamzmail)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Wadamzmail/badge.svg)](https://hub.xerj.org/contributors/Wadamzmail)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadamzmail" alt="wadamzmail" /></a> </p>
 
 - 🔭 I’m currently working on [AndroidIDE-Dev](https://github.com/Wadamzmail/AndroidIDE)
